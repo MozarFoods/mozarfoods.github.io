@@ -1,0 +1,50 @@
+section {
+    height: 50px;
+
+    background: #d86d39;
+
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    border-bottom-width: 3px;
+    border-bottom-color: #2f2f2f;
+    border-bottom-style: solid;
+
+}
+
+section .section-content {
+    display: flex;
+    align-items: center;
+    padding-top: 0.4rem;
+    justify-content: center;
+    
+}
+
+#class-01 {
+    margin-top: 3rem;
+}
+
+section img{
+    height: 70px;
+    width: 70px;
+
+    margin-left: -3rem;
+}
+
+h1 {
+    color: #333232;
+    margin-left: 0.4rem;
+}
+
+#h1-pizzarias {
+    margin-left: 1.5rem;
+}
+
+#slogam {
+    width: 100vw;
+    height: 180px;
+    margin-top: 2rem;
+}
+
